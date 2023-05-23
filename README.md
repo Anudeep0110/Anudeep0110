@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anudeep0110
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning to be a Software Developer
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning to be a MERN Stack Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
